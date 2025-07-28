@@ -4,20 +4,20 @@
 		"language": "eng",
 		"filename": "eng.traineddata",
 		"source": "https://raw.githubusercontent.com/pranatahouse/tessdata/refs/heads/main/eng.traineddata",
-		"checked": false,
+		"checked": false
 	},
 	{
 		"label": "Indonesia",
 		"language": "ind",
 		"filename": "ind.traineddata",
 		"source": "https://raw.githubusercontent.com/pranatahouse/tessdata/refs/heads/main/ind.traineddata",
-		"checked": false,
+		"checked": false
 	},
 	{
 		"label": "Hindi",
 		"language": "hin",
 		"filename": "hin.traineddata",
 		"source": "https://raw.githubusercontent.com/pranatahouse/tessdata/refs/heads/main/hin.traineddata",
-		"checked": false,
+		"checked": false
 	}
 ]
